@@ -106,7 +106,7 @@ int main(int argc, const char * argv[])
 
     cout << "符合长度的路径有：";
     vector<int> vec;
-    PathLength(node, vec, 4);
+    PathLength(node, vec, 6);
 
     return 0;
 }
